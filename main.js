@@ -22,12 +22,12 @@ let currentTrack = document.createElement('audio');
 //updating the media
 let trackList = [
     {
-        name: "Beautiful Name", 
+        name: "Beautifulname", 
         artist: "Hillsong", 
         path: "playlist/what_a_beautiful_name.mp3"
     },
     {
-        name: "The Prophecy", 
+        name: "TheProphecy", 
         artist: "Juanita Bynum", 
         path: "playlist/the_prophecy.mp3"
     },
@@ -37,12 +37,12 @@ let trackList = [
         path: "playlist/more.mp3"
     },
     {
-        name: "God Is Awesome", 
+        name: "Awesome", 
         artist: "Charles Jenkins", 
         path: "playlist/my_God_is_awesome.mp3"
     },
     {
-        name: "Trust In You", 
+        name: "TrustInYou", 
         artist: "Lauren Daigle", 
         path: "playlist/trust_in_you.mp3"
     },
